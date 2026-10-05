@@ -1,0 +1,203 @@
+﻿Diagnose log at 2026-10-05T15:58:04Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.1.2
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\hp
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=CHIKKU10
+AGY_BROWSER_ACTIVE_PORT_FILE=C:\Users\hp\AppData\Roaming\Antigravity\DevToolsActivePort
+GIT_TRACE2_PARENT_SID=50c962b5-e463-4f9e-ba86-83d155ca6ae5
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ANTIGRAVITY_CSRF_TOKEN=5730a824-6da4-40cb-bcd0-53d3b01396ae
+OneDrive=C:\Users\hp\OneDrive
+RegionCode=APJ
+PUBLIC=C:\Users\Public
+ANTIGRAVITY_TRAJECTORY_ID=f60243b2-6760-4177-b0cb-45df72e4fa0d
+LC_CTYPE=C.UTF-8
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+EFC_10784_2775293581=1
+USERNAME=hp
+SystemDrive=C:
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+platformcode=KV
+TEMP=C:\Users\hp\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\hp\AppData\Local
+MSYSTEM=MINGW64
+SESSIONNAME=Console
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+ProgramData=C:\ProgramData
+USERDOMAIN=CHIKKU10
+ANTIGRAVITY_CONVERSATION_ID=53e70b69-8de6-41b4-a601-c85e2b7aa2ef
+ANTIGRAVITY_LS_VERSION=hub-2.19.1
+PROCESSOR_REVISION=1801
+PROCESSOR_LEVEL=23
+NUMBER_OF_PROCESSORS=8
+TMPDIR=C:\Users\hp\AppData\Local\Temp
+APPDATA=C:\Users\hp\AppData\Roaming
+PROMPT=$P$G
+EFC_10784_4126798990=1
+CHROME_DEVTOOLS_MCP_JS=C:\Users\hp\AppData\Local\Programs\Antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\bin\chrome-devtools-mcp.js
+ProgramFiles(x86)=C:\Program Files (x86)
+ANTIGRAVITY_APP_DATA_DIR=C:/Users/hp/.gemini/antigravity
+EFC_10784_2283032206=1
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+TMP=C:\Users\hp\AppData\Local\Temp
+ANTIGRAVITY_LS_ADDRESS=localhost:54483
+PLINK_PROTOCOL=ssh
+COLORTERM=truecolor
+ProgramW6432=C:\Program Files
+PATH=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\hp\bin;C:/Users/hp/.gemini/antigravity/bin;C:\Users\hp\AppData\Roaming\Antigravity\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Users\hp\.cargo\bin;;C:\Program Files\Sunshine;C:\Program Files\Sunshine\tools;C:\Program Files\nodejs\;C:\Users\hp\.cargo\bin;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Users\hp\AppData\Roaming\npm;C:\Users\hp\AppData\Local\Programs\Python\Python38\;C:\Users\hp\AppData\Local\Programs\Python\Python38\Scripts\;
+ProgramFiles=C:\Program Files (x86)
+OnlineServices=Online Services
+AMDRMSDKPATH=C:\Program Files\AMD\RyzenMasterSDK\
+ANTIGRAVITY_PROJECT_ID=ec526bb1-1294-45fb-a1b0-b1d9913bdf0d
+ANTIGRAVITY_SOURCE_METADATA={"tool":{"conversationId":"53e70b69-8de6-41b4-a601-c85e2b7aa2ef", "stepIndex":226, "toolCall":{"id":"call_975756", "name":"run_command", "argumentsJson":"{\"CommandLine\":\"cmd.exe /c \\\"git credential-manager diagnose\\\"\",\"Cwd\":\"g:\\\\Ai\\\\Games\\\\catan3d\",\"WaitMsBeforeAsync\":5000,\"toolAction\":\"Checking Git Credential Manager\",\"toolSummary\":\"Check credential manager status\"}", "thinkingSignature":"EmoKaAFpFH0T+6xtAFUzje5dUy2Py0RB1X0rF5GXg8vH08eMipkV7QNUtYrKA0PNRMaHB7B6Ixh65F0gB56Lfq6UZktK/WLID2YPfywrUqoP8rhQWALkRMoReb5109vc6M/UYuLAYM60pIRV"}}}
+HOME=C:\Users\hp
+ANTIGRAVITY_AGENT=1
+SystemRoot=C:\WINDOWS
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\CHIKKU10
+USERPROFILE=C:\Users\hp
+EFC_10784_1262719628=1
+USERDOMAIN_ROAMINGPROFILE=CHIKKU10
+EFC_10784_3789132940=1
+ANTIGRAVITY_AGENTAPI_EXE=C:\Users\hp\AppData\Local\Programs\Antigravity\resources\bin\language_server.exe
+HOMEDRIVE=C:
+PSModulePath=C:\Users\hp\OneDrive\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+VBOX_HWVIRTEX_IGNORE_SVM_IN_USE=1
+AGY_BROWSER_WS_URL=ws://127.0.0.1:54480/devtools/browser/18ca2480-974f-4661-a05b-d06d5c02e59d
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+TERM=xterm-256color
+EFC_10784_1592913036=1
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\hp\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\hp\AppData\Local\Temp\0d9b4cf4bee697097256c2f9'... OK
+Reading from temporary file 'C:\Users\hp\AppData\Local\Temp\0d9b4cf4bee697097256c2f9'... OK
+Deleting temporary file 'C:\Users\hp\AppData\Local\Temp\0d9b4cf4bee697097256c2f9'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\hp
+UserDataDirectoryPath: C:\Users\hp\.gcm
+GetCurrentDirectory(): G:\Ai\Games\catan3d
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:58157/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.41.0.windows.1'
+Locating current repository... OK
+Git repository at 'G:/Ai/Games/catan3d/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/hp/.gitconfig	user.name=Abhinavc10
+file:C:/Users/hp/.gitconfig	user.email=chikku10chikku123@gmail.com
+file:C:/Users/hp/.gitconfig	http.lowspeedlimit=1000
+file:C:/Users/hp/.gitconfig	http.lowspeedtime=60
+file:C:/Users/hp/.gitconfig	http.postbuffer=524288000
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/chikku10/catan3d.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\hp\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\hp\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
